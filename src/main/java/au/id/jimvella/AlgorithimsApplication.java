@@ -1,4 +1,4 @@
-package au.id.jim-vella.practice;
+package au.id.jimvella;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

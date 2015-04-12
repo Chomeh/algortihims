@@ -1,4 +1,4 @@
-package au.id.jim-vella.practice;
+package au.id.jimvella;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
